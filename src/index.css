@@ -6,7 +6,7 @@
 
 @layer components {
   .disk-w {
-    @apply w-28 h-28 xs:w-32 xs:h-32 md:w-40 md:h-40 lg:w-52 lg:h-52;
+    @apply w-28 h-28 xs:w-32 xs:h-32 sm:w-36 sm:h-36 md:w-40 md:h-40 lg:w-52 lg:h-52;
   }
 }
 
